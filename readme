@@ -1,0 +1,23 @@
+Welcome to the recipe app. This app helps you mange your recipe, allowing you to add recipe, view recipe, scale, and reset recipes.
+Features
+.Add recipe: Enter details for new recipe including ingredients and steps.
+.Display recipe:View details about each recipe.
+.Scale recipe: Adjust the quantities of the ingredients based on a scaling factors.
+.Reset quantities: Reset to original quantity of ingredients.
+Clear all data: Remove all recipes from the list.
+GUI":User friendly WPF interface for easy recipe navigation.
+
+Run the recipe app by:
+1.clone the repository
+2.Navigate to the project directory
+3.Run the application
+
+Usage
+1.Add REcipe:
+Click on "Add Recipe" and fill out the form to add a new recipe
+2.Display recipe:
+Click on "Display recipe" to view all recipes. and choose a recipe to see its details.
+3. Scale recipe:
+Click on "Scale recipe"select a recipe and enter a scaling factor.
+4.Clear all data:
+Click on "Clear all data" to remove all recipes from the list
